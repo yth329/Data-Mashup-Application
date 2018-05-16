@@ -1,0 +1,35 @@
+Data Mashup Application 
+group name: LlZzYy
+group member: zhang jiahong ,lu runze ,yu tianhui, yuan xilan
+1.topic:shooting violence related to unemployment rate
+2.connection method: github:
+       https://github.com/JIAHONGZHANG/Data-Mashup-Application 
+3.source material:
+       unemployment rate:https://www.kaggle.com/jayrav13/unemployment-by-county-us
+       mass shooting: https://www.kaggle.com/zacksmith32/us-mass-shooting-analysis/data
+       shooting rate: https://www.kaggle.com/jameslko/gun-violence-data/data  
+4.time of searching and analysing:2013.01-2016.01
+5.function: 
+      5.1.searching: shooting rate and unemployment rate
+			    1)searching by areas : states,cities(optional)
+				2)search by gender
+				3)shooting type:
+				     mass shooting : the amount of person participating > 10
+                     other shooting
+
+                4)search by the number of injured people
+                5)search by offenders  related to age distribution
+      5.2.curation and analyse:vision
+              1)form a comprehensive table,form chart ,line graph.
+              2)form a location map.
+       		  3)analyse the relationship between shooting rate and unemployment rate.
+
+6.task allocation:
+
+      6.1.zhang jiahong and lu runze : data public service and front end
+              1)search source material
+              2)select available information
+              3)complete front end
+      6.2.yu tianhui and yuan xilan: curation and analyse
+              1)according to comprehensive table,analyse useful information 
+              2)select  data and show the visual graghs to client.
